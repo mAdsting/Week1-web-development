@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- -- Meta and Title for the page -- -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Simple HTML5 Page</title>
+</head>
+<body>
+
+  <!-- -- Page Header -- -->
+  <header>
+    <h1>Welcome to My Simple Webpage</h1>
+  </header>
+
+  <!-- -- Navigation Section -- -->
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+    </ul>
+  </nav>
+
+  <!-- -- Main Content Section -- -->
+  <main>
+    <section id="home">
+      <h2>Home Section</h2>
+      <p>This is a simple homepage created using HTML5 elements. also an assignment for week one web development.</p>
+    </section>
+
+    <section id="about">
+      <h2>About Us</h2>
+      <p>We are learning how to build clean and semantic HTML5 webpages. This helps with SEO and user experience.</p>
+    </section>
+  </main>
+
+  <!-- -- Footer Section -- -->
+  <footer>
+    <p>Contact us at: iikitari@gmail.com</p>
+  </footer>
+
+</body>
+</html>
